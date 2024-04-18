@@ -1,12 +1,53 @@
 
-/* 
+.personal-card {
+    color: green;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.background-numbers {
+    background-color: aqua;
+}
 
-*/
+.blue {
+    background-color: blue;
+}
+
+
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+
+
+.pointer {
+    cursor: pointer;
+}
+
+.active {
+    color: rgb(174, 202, 192);
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.modal {
+    display: block
+};
+
+
+
+.ligth {
+    color: black;
+    background-color: azure;
+}
+
